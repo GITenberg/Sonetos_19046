@@ -1,0 +1,35 @@
+_repo: Sonetos_19046
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquinio de Quental, Anthero
+    - De Quental, Antero
+    - Quental, Anthero de
+    - Tarquino do Quental, Anthero
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2006-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19046'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+title: Sonetos
+url: http://www.gutenberg.org/ebooks/19046
